@@ -7,10 +7,12 @@ import SignupPage from './components/SignupPage';
 function App() {
   return (
     <>
+
     <Router>
-      <div>
       <Navbar/>
       <Home/>
+      <div>
+
 
       </div>
         <Routes>
