@@ -10,10 +10,10 @@ function App() {
     <Router>
       <div>
       <Navbar/>
+      <Home/>
 
       </div>
         <Routes>
-            <Route path='/flipkart-clone/' element={<Home/>} />
             <Route path='/products' element={<Products/>} />
             <Route path='/login' element={<LoginPage/>} />
             <Route path='/signup' element={<SignupPage/>} />
