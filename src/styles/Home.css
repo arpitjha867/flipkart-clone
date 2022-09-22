@@ -1,0 +1,214 @@
+.category-container{
+    border:1px solid #aaa;
+    box-shadow: 0 0 5px #aaa;
+}
+
+.navbarContentContainer{
+    display: flex;
+    width: 73%;
+    margin: auto;
+    height: 40px;
+
+}
+.belowNavbarCards{
+    cursor: pointer;
+    padding: 5px;
+    text-align: center;
+}
+
+.belowNavbarCards:hover{
+    color: #2874F0;
+}
+.crslImage{
+    width: 500px;
+    height: 265px;
+    cursor: pointer;
+}
+
+.navbarContent{
+    display: inline-block;
+}
+
+#navbarDropdown{
+    border: 0px;
+}
+
+#logo{
+    padding: 1px 1px;
+}
+
+#searchBox{
+    padding: 1px 1px;
+}
+
+#loginBtn{
+    padding: 1px 1px;
+    width: 180px;
+}
+.loginBtnContent{
+    display: block;
+    margin: auto;
+    width: 102px;
+    height: 32px;
+    margin-top:2px;
+    color:#2874F0;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#menuNavbar{
+    padding: 1px 1px;
+    float: right;
+}
+#moreBtn{
+    background-color: #2874F0;
+    font-weight: bold;
+    color: white;
+    width: 88px;
+}
+#sellerBtn{
+    background-color: #2874F0;
+    font-weight: bold;
+    color: white;
+}
+#cartBtn{
+    background-color: #2874F0;
+    font-weight: bold;
+    color: white;
+}
+
+.electronicCardStyle{
+    height: 300px;
+    box-shadow: 0 0 5px #aaa;
+}
+.electronicCardStyle1{
+    background-image: url("https://rukminim1.flixcart.com/fk-p-flap/278/278/image/7593e7b6640822c1.jpg?q=90"); background-position: 0px bottom;
+    background-repeat: no-repeat;
+}
+.cardsElec{
+    box-shadow: 0 0 5px #aaa;
+    height: 300px;
+    padding: 0px 0px;
+    cursor: pointer;
+}
+.electronicsCardContainer{
+    height: 300px;
+}
+.electronicsTextAlign{
+    text-align: center;
+}
+.electronicsHeadMargin{
+    margin-top: 35px;
+}
+
+.electronicsCardImage{
+    margin-top: 19px;
+    height: 122px;
+    padding-left: 6px;
+    padding-right: 6px;
+    transition: all .2s ease-in-out; 
+}
+.electronicsCardImage:hover{
+    transform: scale(1.1);
+}
+
+.toyCards{
+    height: 300px;
+    border:1px solid #aaa;
+    box-shadow: 0 0 5px #aaa;
+}
+
+.bannerCardBeauty{
+    background-image: url("https://rukminim1.flixcart.com/fk-p-flap/278/278/image/b84f1c22cce1a6a3.jpg?q=90"); background-position: 0px bottom;
+    background-repeat: no-repeat;
+}
+
+.infoParaHeaedings{
+    color: #8F8787;
+    font-weight: bold;
+}
+.infoParaGraph{
+    font-size: 10px;
+    color: #8F8787;
+}
+.footerDark{
+    background-color: #172337;
+    color: white;
+}
+.allFooterColumn{
+    height: 218px;
+    padding: 0px 0px;
+    display: inline-block;
+}
+.allHeaderFooter{
+    color:#878775 ;
+}
+
+.allFooterContent{
+    font-size: 13px;
+}
+
+.footerContentList{
+    list-style: none;
+    padding: 0px 0px;
+    margin-top: 2px;
+
+}
+.allInfoBoxFooter{
+    display: flex;
+    padding-top: 40px;
+    height: 256px;
+}
+
+.firstFour{
+    width: 200px;
+}
+
+.lastTwo{
+    width: 248px;
+}
+.marginContentFooter{
+    margin-top: 0.01px;
+}
+.anchorContentFooter{
+    color: white;
+    text-decoration: none;
+}
+
+.anchorContentFooter:hover{
+    color: white;
+    text-decoration: underline;
+}
+.seperationDiv{
+    width: 0px;
+    border: 1px solid #878775;
+    height: 137px;
+    margin-top: 7px;
+    margin-right: 20px;
+}
+.footerFooter{
+    padding-top: 0px;
+    display: flex;
+}
+
+.footerFooterContent{
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    margin-right: 58px;
+}
+.footerFooterAnchor{
+    color: white;
+    text-decoration: none;
+    
+}
+.footerFooterAnchor:hover{
+    color: white;
+}
+.footerFooterSeperation{
+    height: 0px;
+    width: 1296px;
+    border: 0.5px solid #878775;
+    margin-top: 30px;
+}
+
